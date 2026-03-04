@@ -1,0 +1,4 @@
+[
+  { "id": 1, "nome": "Semana da Computação", "vagas": 50 },
+  { "id": 2, "nome": "Palestra de IA", "vagas": 120 }
+]
