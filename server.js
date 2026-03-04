@@ -17,7 +17,7 @@ app.get("/", (req, res) => {
         <h1>Menu</h1>
         <a href="/aluno/Milena">Ir para aluno</a><br>
         <a href="/status">Ir para status</a>
-    `);
+    `);sxsdsdasasdasd
 });
 
     
