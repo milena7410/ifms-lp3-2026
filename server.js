@@ -59,3 +59,6 @@ app.listen(PORTA, () => {
 
 
 
+ for (let i = 0; i < filmes.length; i++) {
+    soma += filmes[i].nota;
+  }
